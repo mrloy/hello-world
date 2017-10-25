@@ -1,6 +1,6 @@
 # Hello World!
 Hello World
-Go Falcons!
-Want to visit
-<a href="http://www.friendshipchristian.net"> FCS?</a> 
+Go Wolfpack
+<a href="http://www.friendshipchristian.net">Visit FCS</a> 
 </br>
+<a href="http://www.khanacademy.org/">Visit Khanaacademy</a>
